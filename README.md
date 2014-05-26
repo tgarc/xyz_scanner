@@ -1,0 +1,1 @@
+LabView software package for automated data collection of plate response to ultrasonic pulses. Integrates serial communication with 3 axis scanner using allen bradley digital servo's and oscilloscope data collection using a Cleverscope.
