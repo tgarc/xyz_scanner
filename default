@@ -1,0 +1,28 @@
+[Axis Space]
+Axis Space=<4>
+Axis Space 0.Axis .Addr=88
+Axis Space 0.Axis .Conv Factor=4096
+Axis Space 0.Axis .Forward Limit=0
+Axis Space 0.Axis .Reverse Limit=0
+Axis Space 0.Axis .Enable Limits=FALSE
+Axis Space 1.Axis .Addr=89
+Axis Space 1.Axis .Conv Factor=3276.8
+Axis Space 1.Axis .Forward Limit=0
+Axis Space 1.Axis .Reverse Limit=0
+Axis Space 1.Axis .Enable Limits=FALSE
+Axis Space 2.Axis .Addr=90
+Axis Space 2.Axis .Conv Factor=6553.8
+Axis Space 2.Axis .Forward Limit=0
+Axis Space 2.Axis .Reverse Limit=0
+Axis Space 2.Axis .Enable Limits=FALSE
+Axis Space 3.Axis .Addr=255
+Axis Space 3.Axis .Conv Factor=0
+Axis Space 3.Axis .Forward Limit=0
+Axis Space 3.Axis .Reverse Limit=0
+Axis Space 3.Axis .Enable Limits=FALSE
+[Scan Parameters]
+Scan Parameters=C:\Documents and Settings\Scanner\Desktop\Scanner\scanner profiles\settings.ini
+[VISA resource name]
+VISA resource name=0x00000004434F4D33
+[Scan Settings]
+Scan Settings=C:\Documents and Settings\Scanner\Desktop\Scanner\scanner profiles\settings.ini
